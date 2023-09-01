@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 - 👨🏽‍💻 Curently studying at SoftUni;
 - 🌱 I'm the creator of two websites with wordpress [Lidias Bakery](https://lidiaspastryshop.com/) and [Mobile Service EU](http://mobileserviceeu.com/)    ; 
 - :zap: In my free time I do sports, spend time with my family and also like dealing with some tasks to constantly upgrade my software engineering skills.
-- 📫 You can get in touch with me by email at: ivailop123@gmail.com and [Facebook](https://www.facebook.com/mario.zahariev.9)
+- 📫 You can get in touch with me by email at: ivailop123@gmail.com and [Facebook](https://www.facebook.com/ivailo.petkov.7)
 
 <br/><br/>
 
