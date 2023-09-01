@@ -16,11 +16,11 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- :telescope: I love teaching on software engineering students as well as writing software 
-- 👨🏽‍💻 Writing the scientific articles and creating technical content for [Python Dev Society](https://www.facebook.com/PythonDevSociety);
-- 🌱 I am the founder of one of the largest fan groups dedicated to the Python programming language [Python Dev Society](https://www.facebook.com/PythonDevSociety); 
-- :zap: In my free time I like to deal with various aspects of cybersecurity and software development in general
-- 📫 You can get in touch with me by email at: webbersof@gmail.com and [Facebook](https://www.facebook.com/mario.zahariev.9)
+- :telescope: I love writing software as well as studying new consepts and coding techniques 
+- 👨🏽‍💻 Curently studying at SoftUni;
+- 🌱 I'm the creator of two websites with wordpress [Lidias Bakery](https://lidiaspastryshop.com/) and [Mobile Service EU](http://mobileserviceeu.com/)    ; 
+- :zap: In my free time I do sports, spend time with my family and also like dealing with some tasks to constantly upgrade my software engineering skills.
+- 📫 You can get in touch with me by email at: ivailop123@gmail.com and [Facebook](https://www.facebook.com/mario.zahariev.9)
 
 <br/><br/>
 
@@ -53,10 +53,7 @@ You can use the website to generate badges: https://shields.io/
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  
+
   
 
 ### :fire: My Stats :
