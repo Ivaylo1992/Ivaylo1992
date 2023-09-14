@@ -6,7 +6,7 @@ You can use the website to generate badges: https://shields.io/
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivaylo-petkov-274194229/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ivailop123@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=Ivaylo1992&color=green)
 
 &nbsp;
 
