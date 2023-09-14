@@ -57,6 +57,6 @@ You can use the website to generate badges: https://shields.io/
   
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ivaylo1992&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ivaylo1992&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivaylo1992&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
