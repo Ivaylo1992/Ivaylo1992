@@ -37,10 +37,6 @@ You can use the website to generate badges: https://shields.io/
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge"/>
   </a>
   
-  <a href="your-kali-URL">
-    <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Badge"/>
-  </a>
-  
   <a href="your-github-URL">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
