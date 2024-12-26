@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 **About me:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
 - :telescope: I love writing software as well as studying new consepts and coding techniques 
 - 👨🏽‍💻 Curently studying at SoftUni;
