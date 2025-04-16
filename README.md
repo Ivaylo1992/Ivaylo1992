@@ -48,7 +48,6 @@
 
 - 💪 [**My Fitness App**](https://github.com/Ivaylo1992/my-fitness-app) — Full-featured fitness tracker with Django REST API
 - 📘 [**Python-SoftUni**](https://github.com/Ivaylo1992/Python-SoftUni) — My complete Python training path with exercises & solutions
-- 🛍️ [**Simple Shop App (WIP)**](#) — Full Stack e-commerce project using Django, React & Stripe
 
 ---
 
@@ -64,9 +63,8 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://softuni.bg/"><img src="https://img.shields.io/badge/SoftUni-0092cf?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://bg.linkedin.com/in/ivaylo-petkov-274194229" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ivailop123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
